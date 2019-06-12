@@ -31,5 +31,13 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "Project laravel crash course",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickMatos97/freecodegram.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ErickMatos97/freecodegram/issues"
+  },
+  "homepage": "https://github.com/ErickMatos97/freecodegram#readme"
 }
